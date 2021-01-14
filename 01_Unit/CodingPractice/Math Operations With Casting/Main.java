@@ -16,6 +16,8 @@ public class Main
          * The formula to convert F to C is:
          * (F - 32) * 5/9 = C
          * Convert 72F to Celsius
+         * Hint: Use printf
+         * Hint: Need to concatenate
          */
         int degreeF = 72;
         System.out.println("Fill in the calculation here");
